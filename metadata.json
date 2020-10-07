@@ -9,7 +9,7 @@
   "issues_url": "https://github.com/claranet/puppet-varnish/issues",
   "dependencies": [
     {
-      "name": "puppetlabs/epel",
+      "name": "puppet/epel",
       "version_requirement": ">= 3.0.0 < 4.0.0"
     },
     {
