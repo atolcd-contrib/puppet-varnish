@@ -9,8 +9,8 @@
   "issues_url": "https://github.com/claranet/puppet-varnish/issues",
   "dependencies": [
     {
-      "name": "stahnma/epel",
-      "version_requirement": ">= 1.2.0 < 2.0.0"
+      "name": "puppetlabs/epel",
+      "version_requirement": ">= 3.0.0 < 4.0.0"
     },
     {
       "name": "puppet/selinux",
